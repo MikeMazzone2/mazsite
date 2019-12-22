@@ -1,3 +1,7 @@
+theme: slate
+title: mypage
+description: mypagecontent
+
 ## Welcome to GitHub Pages
 thanks 4 welcome
 You can use the [editor on GitHub](https://github.com/MikeMazzone2/mazsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
